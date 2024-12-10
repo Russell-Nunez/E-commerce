@@ -184,14 +184,8 @@ Os produtos devem seguir o formato abaixo:
 
 ## Autor
 
-Desenvolvido por [Seu Nome].  
-Contato: [seu.email@exemplo.com]
+Desenvolvido por Russell Nunez.  
 
 ---
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-Salvando o arquivo em um Markdown (`README.md`).
