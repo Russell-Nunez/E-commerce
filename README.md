@@ -234,6 +234,3 @@ Desenvolvido por **Russell Nunez**.
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
