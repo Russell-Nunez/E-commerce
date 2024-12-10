@@ -5,6 +5,7 @@ import ProductPage from './pages/ProductPage';
 import ProdutosPage from './pages/ProdutosPage';
 import OfertasPage from './pages/OfertasPage';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import { ShopProvider } from './context/ShopContext';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
@@ -23,6 +24,7 @@ const App = () => {
               <Route path="/ofertas" element={<OfertasPage />} />
             </Routes>
           </main>
+          <Footer />
         </div>
       </Router>
     </ShopProvider>
