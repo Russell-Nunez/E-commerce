@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome": "Notebook Dell Inspiron",
+        "descricao": "Notebook de alto desempenho com processador Intel i7.",
+        "imagem": "https://images.tcdn.com.br/img/img_prod/740836/notebook_dell_latitude_3420_i3_1115g4_memoria_8gb_ssd_256gb_tela_14_led_fhd_windows_11_home_14601_1_a8de561e483199c50494678a149ac0e2.jpg",
+        "valor": 4500.00,
+        "nota": 4.8,
+        "categoria": "Eletrônicos"
+    },
+    {
+        "id": 2,
+        "nome": "Smartphone Samsung Galaxy S21",
+        "descricao": "Celular com câmera profissional e design moderno.",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_774717-MLA69672025564_052023-O.webp",
+        "valor": 3500.00,
+        "nota": 4.6,
+        "categoria": "Eletrônicos"
+    },
+    {
+        "id": 3,
+        "nome": "Smart TV LG 55\"",
+        "descricao": "Smart TV 4K com tecnologia OLED.",
+        "imagem": "https://www.lg.com/ar/images/televisores/md05828056/gallery/55UJ6580_Destop01_09082017.jpg",
+        "valor": 3200.00,
+        "nota": 4.9,
+        "categoria": "Eletrônicos"
+    },
+    {
+        "id": 4,
+        "nome": "Fone de Ouvido Sony WH-1000XM4",
+        "descricao": "Fone de ouvido com cancelamento de ruído.",
+        "imagem": "https://www.sony.com.br/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320",
+        "valor": 1500.00,
+        "nota": 4.7,
+        "categoria": "Acessórios"
+    },
+    {
+        "id": 5,
+        "nome": "Mouse Gamer Logitech G502",
+        "descricao": "Mouse com 11 botões programáveis.",
+        "imagem": "https://m.media-amazon.com/images/I/718b9wK3eaL.jpg",
+        "valor": 250.00,
+        "nota": 4.8,
+        "categoria": "Acessórios"
+    },
+    {
+        "id": 7,
+        "nome": "Relógio Apple Watch Series 7",
+        "descricao": "Relógio inteligente com recursos avançados de saúde.",
+        "imagem": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXM23ref_FV99_VW_34FR+watch-case-46-aluminum-jetblack-cell-s10_VW_34FR+watch-face-46-aluminum-jetblack-s10_VW_34FR?wid=752&hei=720&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=TnVrdDZWRlZzTURKbHFqOGh0dGpVRW5TeWJ6QW43NUFnQ2V4cmRFc1VnYUdWejZ5THhpKzJwRmRDYlhxN2o5aWp3UWRQeU9ENTVkdnpWZ2VCQ1JYVkF1Z0RaeFB5LzRxZEliRVE2WkswOW5YNUh6UG9VcVpLK2VQampYMHFQR0ZraFRqYm9IdFcyZHNBc3g5MFNqQkIxRVpGM0VTYkFEYWkrVUpmdm5HMEsvZzdYL1dmbHI1ck0vS0dDZmJkTUNtcXlYK1hMV0U1ZW9xcCtlRHF3V3gyZThGL0dtL1JkeEJQSnRCMXJsZFBFY2doN2ZiODFwWklZeDgrZ0RtbVRXag",
+        "valor": 4200.00,
+        "nota": 4.9,
+        "categoria": "Acessórios"
+    },
+    {
+        "id": 8,
+        "nome": "Console PlayStation 5",
+        "descricao": "Console de última geração com SSD ultrarrápido.",
+        "imagem": "https://static-it.gamestop.it/images/products/323675/3max.jpg",
+        "valor": 4700.00,
+        "nota": 4.9,
+        "categoria": "Jogos"
+    },
+    {
+        "id": 9,
+        "nome": "Teclado Mecânico Razer",
+        "descricao": "Teclado com iluminação RGB personalizável.",
+        "imagem": "https://assets2.razerzone.com/images/pnx.assets/0e4bddef60314a55842d31fc0c11397b/razer-blakwidow-v4-75-500x500.webp",
+        "valor": 600.00,
+        "nota": 4.8,
+        "categoria": "Acessórios"
+    }
+]
